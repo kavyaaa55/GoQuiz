@@ -1,0 +1,8 @@
+# .eslintignore
+
+# Ignore Prisma-generated files
+src/generated/*
+prisma/generated/*
+
+**/runtime/*
+**/wasm.js
